@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hemeda3.kafkagui.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hemeda3.kafkagui.MyBundle
 
 class MyApplicationService {
 
